@@ -1,0 +1,340 @@
+{
+  "grading_summary": {
+    "total_students": 25,
+    "average_score": 78.5,
+    "median_score": 80.0,
+    "highest_score": 95.5,
+    "lowest_score": 45.2,
+    "standard_deviation": 12.3,
+    "grade_distribution": {
+      "A (90-100)": 5,
+      "B (80-89)": 8,
+      "C (70-79)": 7,
+      "D (60-69)": 3,
+      "F (0-59)": 2
+    }
+  },
+  "question_analysis": {
+    "1": {
+      "question_type": "multiple_choice",
+      "correct_answer": "A",
+      "total_attempts": 25,
+      "correct_count": 22,
+      "success_rate": 88.0,
+      "difficulty_level": "easy",
+      "common_wrong_answers": {
+        "B": 2,
+        "C": 1
+      }
+    },
+    "2": {
+      "question_type": "multiple_choice",
+      "correct_answer": "B",
+      "total_attempts": 25,
+      "correct_count": 20,
+      "success_rate": 80.0,
+      "difficulty_level": "easy",
+      "common_wrong_answers": {
+        "A": 3,
+        "C": 2
+      }
+    },
+    "3": {
+      "question_type": "text",
+      "correct_answer": "photosynthesis",
+      "total_attempts": 25,
+      "correct_count": 18,
+      "success_rate": 72.0,
+      "difficulty_level": "medium",
+      "common_wrong_answers": {
+        "cellular respiration": 4,
+        "respiration": 2,
+        "metabolism": 1
+      }
+    },
+    "4": {
+      "question_type": "multiple_choice",
+      "correct_answer": "C",
+      "total_attempts": 25,
+      "correct_count": 23,
+      "success_rate": 92.0,
+      "difficulty_level": "easy",
+      "common_wrong_answers": {
+        "A": 1,
+        "B": 1
+      }
+    },
+    "5": {
+      "question_type": "text",
+      "correct_answer": "mitochondria",
+      "total_attempts": 25,
+      "correct_count": 15,
+      "success_rate": 60.0,
+      "difficulty_level": "medium",
+      "common_wrong_answers": {
+        "chloroplast": 5,
+        "nucleus": 3,
+        "ribosome": 2
+      }
+    },
+    "6": {
+      "question_type": "multiple_choice",
+      "correct_answer": "D",
+      "total_attempts": 25,
+      "correct_count": 19,
+      "success_rate": 76.0,
+      "difficulty_level": "medium",
+      "common_wrong_answers": {
+        "A": 3,
+        "B": 2,
+        "C": 1
+      }
+    },
+    "7": {
+      "question_type": "text",
+      "correct_answer": "cellular respiration",
+      "total_attempts": 25,
+      "correct_count": 12,
+      "success_rate": 48.0,
+      "difficulty_level": "hard",
+      "common_wrong_answers": {
+        "photosynthesis": 6,
+        "respiration": 4,
+        "breathing": 3
+      }
+    },
+    "8": {
+      "question_type": "multiple_choice",
+      "correct_answer": "A",
+      "total_attempts": 25,
+      "correct_count": 21,
+      "success_rate": 84.0,
+      "difficulty_level": "easy",
+      "common_wrong_answers": {
+        "B": 2,
+        "C": 1,
+        "D": 1
+      }
+    },
+    "9": {
+      "question_type": "text",
+      "correct_answer": "nucleus",
+      "total_attempts": 25,
+      "correct_count": 17,
+      "success_rate": 68.0,
+      "difficulty_level": "medium",
+      "common_wrong_answers": {
+        "nucleolus": 3,
+        "nuclear membrane": 2,
+        "cytoplasm": 2,
+        "cell membrane": 1
+      }
+    },
+    "10": {
+      "question_type": "multiple_choice",
+      "correct_answer": "B",
+      "total_attempts": 25,
+      "correct_count": 16,
+      "success_rate": 64.0,
+      "difficulty_level": "medium",
+      "common_wrong_answers": {
+        "A": 4,
+        "C": 3,
+        "D": 2
+      }
+    }
+  },
+  "student_results": [
+    {
+      "student_id": "student_001",
+      "raw_score": 32,
+      "total_possible": 34,
+      "percentage": 94.12,
+      "correct_count": 9,
+      "total_questions": 10,
+      "question_scores": {
+        "1": {
+          "student_answer": "A",
+          "correct_answer": "A",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "2": {
+          "student_answer": "B",
+          "correct_answer": "B",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "3": {
+          "student_answer": "photosynthesis",
+          "correct_answer": "photosynthesis",
+          "points_earned": 3,
+          "max_points": 3,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "4": {
+          "student_answer": "C",
+          "correct_answer": "C",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "5": {
+          "student_answer": "mitochondria",
+          "correct_answer": "mitochondria",
+          "points_earned": 3,
+          "max_points": 3,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "6": {
+          "student_answer": "D",
+          "correct_answer": "D",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "7": {
+          "student_answer": "cellular respiration",
+          "correct_answer": "cellular respiration",
+          "points_earned": 3,
+          "max_points": 3,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "8": {
+          "student_answer": "A",
+          "correct_answer": "A",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "9": {
+          "student_answer": "nucleus",
+          "correct_answer": "nucleus",
+          "points_earned": 3,
+          "max_points": 3,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "10": {
+          "student_answer": "A",
+          "correct_answer": "B",
+          "points_earned": 0,
+          "max_points": 2,
+          "is_correct": false,
+          "similarity_score": 0.0
+        }
+      }
+    },
+    {
+      "student_id": "student_002",
+      "raw_score": 26,
+      "total_possible": 34,
+      "percentage": 76.47,
+      "correct_count": 7,
+      "total_questions": 10,
+      "question_scores": {
+        "1": {
+          "student_answer": "A",
+          "correct_answer": "A",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "2": {
+          "student_answer": "B",
+          "correct_answer": "B",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "3": {
+          "student_answer": "respiration",
+          "correct_answer": "photosynthesis",
+          "points_earned": 0,
+          "max_points": 3,
+          "is_correct": false,
+          "similarity_score": 0.45
+        },
+        "4": {
+          "student_answer": "C",
+          "correct_answer": "C",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "5": {
+          "student_answer": "chloroplast",
+          "correct_answer": "mitochondria",
+          "points_earned": 0,
+          "max_points": 3,
+          "is_correct": false,
+          "similarity_score": 0.25
+        },
+        "6": {
+          "student_answer": "D",
+          "correct_answer": "D",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "7": {
+          "student_answer": "photosynthesis",
+          "correct_answer": "cellular respiration",
+          "points_earned": 0,
+          "max_points": 3,
+          "is_correct": false,
+          "similarity_score": 0.35
+        },
+        "8": {
+          "student_answer": "A",
+          "correct_answer": "A",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "9": {
+          "student_answer": "nucleus",
+          "correct_answer": "nucleus",
+          "points_earned": 3,
+          "max_points": 3,
+          "is_correct": true,
+          "similarity_score": 1.0
+        },
+        "10": {
+          "student_answer": "B",
+          "correct_answer": "B",
+          "points_earned": 2,
+          "max_points": 2,
+          "is_correct": true,
+          "similarity_score": 1.0
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "grading_timestamp": "2024-01-15T10:30:00Z",
+    "grader_version": "1.0.0",
+    "total_questions": 15,
+    "total_possible_points": 34,
+    "similarity_threshold": 0.8,
+    "grading_criteria": {
+      "multiple_choice": "exact_match_required",
+      "text_answers": "similarity_based_with_threshold"
+    }
+  }
+}
